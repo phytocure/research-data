@@ -1,0 +1,31 @@
+strain_id,strain_name,chemotype,genetics,dominant_terpene,secondary_terpenes,primary_indications,secondary_indications,entourage_score,therapeutic_score,psychoactivity_index,administration_routes,distributor_ids,notes
+PHY-001,Bediol,II,Unknown (Bedrocan cultivar),Myrcene,"Caryophyllene,Terpinolene",F41.1;G43,F32.2,8.2,82,3.5,"oral,sublingual","PHY-DIST-001,PHY-DIST-003",WHO-approved clinical cultivar
+PHY-002,Bedrolite,III,Unknown (Bedrocan cultivar),Terpinolene,"Myrcene,Ocimene",G40.0;F41.1,R51,9.1,88,0.5,"oral,sublingual","PHY-DIST-001,PHY-DIST-002",Near-zero psychoactivity
+PHY-003,Bedrocan,I,Unknown (Bedrocan cultivar),Myrcene,"Caryophyllene,Limonene",F41.1;G43,G89,7.9,79,8.5,"inhalation,oral","PHY-DIST-001","Standard clinical T21% cultivar"
+PHY-004,Bedica,I,Unknown (Bedrocan cultivar),Caryophyllene,"Myrcene,Humulene",G89;F32.2,F41.1,8.0,81,6.5,"inhalation,oral","PHY-DIST-001,PHY-DIST-004",Indica-dominant clinical
+PHY-005,Charlotte's Web,III,Hippie Crippler x unknown hemp,Myrcene,"Caryophyllene,Humulene",G40.5;F41.1,F32.2,9.3,91,0.4,"oral,sublingual","PHY-DIST-002,PHY-DIST-005","FDA Orphan Drug designation for epilepsy"
+PHY-006,ACDC,II,Cannatonic phenotype,Myrcene,"Caryophyllene,Pinene",F41.1;G89,F32.2,8.8,89,0.8,"oral,sublingual,inhalation","PHY-DIST-002,PHY-DIST-003",High CBD:THC ratio >10:1
+PHY-007,Harlequin,II,Colombian x Thai x Nepal x Swiss,Myrcene,"Pinene,Caryophyllene",G89;F41.1,F32.2,8.6,86,4.2,"inhalation,oral","PHY-DIST-003,PHY-DIST-005",Balanced CBD:THC ~1:1
+PHY-008,Sour Tsunami,II,Sour Diesel x NYC Diesel,Myrcene,"Caryophyllene,Limonene",G89;F32.2,F41.1,8.4,84,1.5,"inhalation,oral","PHY-DIST-003,PHY-DIST-004",Bred for high CBD by Lawrence Ringo
+PHY-009,Cannatonic,II,MK Ultra x G13 Haze,Myrcene,"Limonene,Pinene",F41.1;G89,R51,8.5,85,3.2,"inhalation,oral","PHY-DIST-002,PHY-DIST-004","1:1 to 3:1 CBD:THC phenotype range"
+PHY-010,Ringo's Gift,II,ACDC x Harle-Tsu,Myrcene,"Caryophyllene,Pinene",F41.1;G40.5,G89,9.4,93,0.7,"oral,sublingual","PHY-DIST-002,PHY-DIST-005",Named after CBD advocate Lawrence Ringo
+PHY-011,Remedy,III,Cannatonic x Afghan Skunk,Caryophyllene,"Myrcene,Humulene",G89;F32.2,F41.1,8.9,88,0.4,"oral,sublingual","PHY-DIST-004,PHY-DIST-005",High-CBD indica-dominant
+PHY-012,Harle-Tsu,II,Harlequin x Sour Tsunami,Myrcene,"Pinene,Caryophyllene",G89;F41.1,F32.2,9.0,90,0.6,"oral,inhalation","PHY-DIST-002,PHY-DIST-003",Exceptionally high CBD
+PHY-013,OG Kush,I,Chemdawg x Hindu Kush,Myrcene,"Limonene,Caryophyllene",G89;F32.2,F41.1,8.1,80,8.2,"inhalation","PHY-DIST-001,PHY-DIST-005",Classic indica-hybrid; strong analgesic
+PHY-014,Girl Scout Cookies,I,OG Kush x Durban Poison,Caryophyllene,"Limonene,Humulene",F32.2;G89,F41.1,7.8,77,7.9,"inhalation","PHY-DIST-001,PHY-DIST-003","Award-winning; sedative at higher doses"
+PHY-015,Blue Dream,I,Blueberry x Haze,Myrcene,"Pinene,Caryophyllene",F41.1;F32.2,G89,7.5,75,7.2,"inhalation","PHY-DIST-003,PHY-DIST-004",Sativa-dominant; gentle cerebral effects
+PHY-016,Durban Poison,I,South African landrace,Terpinolene,"Myrcene,Ocimene",F41.1;F32.2,G47,8.0,79,8.0,"inhalation","PHY-DIST-004,PHY-DIST-005",High THCV; appetite suppression
+PHY-017,Jack Herer,I,Northern Lights x Shiva Skunk x Haze,Terpinolene,"Pinene,Ocimene",F41.1;F32.2,G47,7.9,78,7.5,"inhalation","PHY-DIST-002,PHY-DIST-004","Named after cannabis activist; uplifting"
+PHY-018,Granddaddy Purple,I,Purple Urkle x Big Bud,Myrcene,"Caryophyllene,Linalool",G47.0;G89,F32.2,8.3,82,7.0,"inhalation","PHY-DIST-001,PHY-DIST-003","Anthocyanin pigmentation; strong sedative"
+PHY-019,Northern Lights,I,Afghani x Thai,Myrcene,"Caryophyllene,Linalool",G47.0;G89,F41.1,8.2,81,7.3,"inhalation","PHY-DIST-001,PHY-DIST-002",Classic indica; muscle relaxant
+PHY-020,White Widow,I,Brazilian Sativa x South Indian Indica,Caryophyllene,"Myrcene,Limonene",G89;F41.1,F32.2,7.7,77,8.0,"inhalation","PHY-DIST-002,PHY-DIST-005","High resin; balanced sativa-indica"
+PHY-021,Pineapple Express,I,Trainwreck x Hawaiian,Myrcene,"Caryophyllene,Limonene",F32.2;F41.1,G89,7.4,74,7.8,"inhalation","PHY-DIST-003,PHY-DIST-004",Tropical terpene profile; uplifting
+PHY-022,Trainwreck,I,Mexican x Thai x Afghan,Terpinolene,"Myrcene,Pinene",G89;F41.1,F32.2,7.6,76,7.6,"inhalation","PHY-DIST-004,PHY-DIST-005",Intense sativa effects; pain relief
+PHY-023,Strawberry Cough,I,Haze x unknown strawberry,Myrcene,"Caryophyllene,Limonene",F41.1;F40.1,F32.2,7.3,73,7.5,"inhalation","PHY-DIST-003,PHY-DIST-005",Anxiety-reducing sativa
+PHY-024,Maui Wowie,I,Hawaiian landrace,Terpinolene,"Myrcene,Pinene",F32.2;F41.1,G47,7.0,70,6.0,"inhalation","PHY-DIST-004,PHY-DIST-005",Low psychoactivity for a Type I; uplifting
+PHY-025,Hawaiian Haze,III,Hawaiian x ACDC hemp,Myrcene,"Ocimene,Terpinolene",F41.1;G89,F32.2,9.0,90,0.3,"oral,sublingual","PHY-DIST-002,PHY-DIST-005",Industrial hemp CBD
+PHY-026,Elektra,III,ACDC x ERB hemp,Myrcene,"Caryophyllene,Ocimene",F41.1;G89,R51,9.1,91,0.5,"oral,sublingual","PHY-DIST-002,PHY-DIST-004",High CBD hemp cultivar
+PHY-027,Sour Space Candy,III,Early Resin Berry x Sour Tsunami,Myrcene,"Caryophyllene,Farnesene",G89;F41.1,F32.2,8.8,88,0.5,"oral,sublingual","PHY-DIST-003,PHY-DIST-005",Dual CBD/CBG expression
+PHY-028,Lifter,III,Suver Haze x Early Resin Berry,Farnesene,"Myrcene,Caryophyllene",G89;F41.1,G47,8.7,87,0.4,"oral,sublingual","PHY-DIST-003,PHY-DIST-004",Mood-lifting high-CBD hemp
+PHY-029,Special Sauce,III,Early Resin Berry x unknown,Myrcene,"Caryophyllene,Humulene",F41.1;G89,G40.0,9.2,92,0.5,"oral,sublingual","PHY-DIST-002,PHY-DIST-005",Very high CBD hemp
+PHY-030,Bubba Kush,I,OG Kush x Northern Lights,Caryophyllene,"Myrcene,Linalool",G47.0;G89,F32.2,8.5,84,7.0,"inhalation","PHY-DIST-001,PHY-DIST-003","Heavy indica; sleep aid; muscle relaxant"
