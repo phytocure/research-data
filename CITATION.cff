@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this dataset in your research, please cite it as below."
+type: dataset
+title: "Phytocure Open Research Dataset"
+version: 1.0.0
+date-released: "2025-05-01"
+doi: 10.5281/zenodo.20143620
+license: CC-BY-4.0
+url: "https://github.com/phytocure/research-data"
+repository-code: "https://github.com/phytocure/research-data"
+authors:
+  - family-names: "William"
+    given-names: "Conor"
+    orcid: "https://orcid.org/0009-0005-8307-2353"
+    email: "phytocure420@gmail.com"
+keywords:
+  - "cannabinoids"
+  - "cannabis medicine"
+  - "cannabinoid profiles"
+  - "terpenes"
+  - "clinical cannabis"
+  - "DeSci"
+  - "open data"
+  - "strain registry"
+  - "dosage protocols"
+  - "pharmacology"
+abstract: >-
+  The Phytocure Open Research Dataset contains verified cannabinoid and terpene
+  profiles for 30 clinically relevant cannabis strains, a full strain registry
+  with therapeutic scoring, curated clinical literature references, and
+  evidence-based dosage protocols for 15 conditions. All data is released under
+  CC BY 4.0 for unrestricted academic and clinical use.
